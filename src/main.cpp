@@ -5,8 +5,8 @@
 
 #define WIFI_SSID "___"
 #define WIFI_PASSWORD "___"
-#define API_KEY "AIzaSyD3EaZvqFD9Ct9Z_z2ZxThzBav6SNb1gO8"
-#define DATABASE_URL "https://iot-gps-project-default-rtdb.firebaseio.com/"
+#define API_KEY "______"
+#define DATABASE_URL "____"
 
 
 #define RXD2 16
