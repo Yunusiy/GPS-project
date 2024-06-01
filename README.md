@@ -5,7 +5,7 @@ This project is designed to track and record GPS data using an ESP32, a GPS modu
 ## Components
 
 - ESP32
-- GPS module (e.g., NEO-6M)
+- GPS module GP-02
 - Firebase Realtime Database
 
 ## Libraries Required
